@@ -1,47 +1,74 @@
-#   Mi dulc Vanessa  Coffe | bebidas | postres  |  - 
+# Mi Dulce Vanessa — Independent Web Customization Experiment
 
+**Status:** Personal project · Independent technical demonstration · Not commissioned
 
-```
-website hecho por esta cafetería del barrio, 
- cerca de Galerías tlaxcala
-```
+## 1. About this repository
 
-logo :3 
+This repository documents an independent web development experiment inspired by the existing website of **Mi Dulce Vanessa**, a local coffee and dessert business in Tlaxcala, Mexico.
 
-<img width="1024" height="576" alt="image" src="https://github.com/user-attachments/assets/b22da175-f6c4-4fa5-8654-36c507a8a733" />
+- **Official business website:** https://dulce-vanessa.jimdosite.com/
+- **Independent demonstration:** https://dulce-vanessa.vercel.app/
+- **Business location:** [Google Maps](https://maps.app.goo.gl/KpTLKuA6FEPV8gCD7)
 
+The official website belongs to the business. This repository is a personal technical experiment and is not an official business repository.
 
-----
+## 2. Objective
 
+The initial objective was simple: investigate whether an existing website could be customized to remove a floating platform-branded element without rebuilding the entire website.
 
-## EL OBJETIVO 
+I inspected the publicly accessible page source, created a local working copy, and began testing modifications using my own Git repository and deployment.
 
-único objetivo: QUITAR ESA COSA FLOTANTE DE LA IA de Alemania, 
-Sin pedirlo, noté lo que sobra de esta website,
+The experiment focuses on:
 
+- Inspecting existing HTML, CSS and JavaScript.
+- Identifying unnecessary platform dependencies and interface elements.
+- Testing code modifications and documenting changes through Git history.
+- Exploring lightweight deployment and opportunities to reduce unnecessary dependencies.
 
+The scope is intentionally limited. This is not a claim that the original website is defective or that every feature has been independently reproduced.
 
+## 3. Authorization and ownership
 
+This project was initiated independently, out of personal interest.
 
+**The business owner did not commission this work, and no authorization to modify, replace, or publish an alternative official business website has been granted.**
 
-https://maps.app.goo.gl/KpTLKuA6FEPV8gCD7
+The independent deployment is a technical demonstration, not an official replacement for the original website. No business relationship, endorsement, or approval is implied.
 
+Any future use of the business's branding, photographs, text, or other protected materials in a public-facing project would require appropriate permission.
 
-<img width="844" height="754" alt="image" src="https://github.com/user-attachments/assets/df8f8fd7-45a8-4cb7-8df9-27390ad958aa" />
+The original website remains the official reference.
 
+## 4. Technical approach
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m16!1m11!1m3!1d3!2d-98.23570718586538!3d19.29697392199513!2m2!1f0!2f90!3m2!1i1024!2i768!4f75!3m3!1m2!1s0x85cfd90028a06137%3A0x765a8f6817bbc2f1!2sMi%20Dulce%20Vanessa!4v1792142088736" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="strict-origin-when-cross-origin"></iframe>
+The work began by inspecting the publicly accessible HTML source and testing a small number of changes rather than immediately rebuilding the website from scratch.
 
+The repository's Git history records the actual development process and modifications.
 
-----
+The technical objective is to understand what can be changed with direct code access, what depends on the original platform, and what can be simplified without unnecessarily introducing additional frameworks or dependencies.
 
+Implementation details and limitations should be evaluated against the actual source code and current deployment.
 
-ahhh yo soy pobre!! 
+## 5. Professional purpose
 
+This is a self-initiated portfolio experiment intended to demonstrate practical web development skills through an existing real-world reference.
 
+It documents the ability to investigate, modify, version-control, and deploy a web project while maintaining a clear distinction between personal work and the business that inspired it.
 
-----
+The goal is to build a portfolio based on observable work, reproducible changes, and technical evidence rather than unsupported claims.
 
+## 6. Project status
 
->https://www.google.com/maps/place/Mi+Dulce+Vanessa/@19.2969086,-98.2365174,18z/data=!4m6!3m5!1s0x85cfd90028a06137:0x765a8f6817bbc2f1!8m2!3d19.2969739!4d-98.2357072!16s%2Fg%2F11lw2vf86m?entry=ttu&g_ep=EgoyMDI2MTAxMy4wIKXMDSoASAFQAw%3D%3D
+- Independent experiment.
+- No payment requested or received for this work.
+- No client engagement or service agreement.
+- No authorization to represent the business or replace its official website.
+- Further publication or business use is subject to appropriate permissions.
 
+This repository may be updated as the technical investigation progresses.
+
+---
+
+**Developer:** [@ozclef](https://github.com/ozclef)
+
+**Deployment:** [Vercel demonstration](https://dulce-vanessa.vercel.app/)
