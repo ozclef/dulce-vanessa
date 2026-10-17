@@ -2,6 +2,12 @@
 
 **Status:** Personal project · Independent technical demonstration · Not commissioned
 
+
+
+<img width="925" height="553" alt="image" src="https://github.com/user-attachments/assets/2bfdc45f-eb64-4245-bdc2-9df45e318f7c" />
+
+
+
 ## 1. About this repository
 
 This repository documents an independent web development experiment inspired by the existing website of **Mi Dulce Vanessa**, a local coffee and dessert business in Tlaxcala, Mexico.
