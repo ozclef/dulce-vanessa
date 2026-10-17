@@ -67,6 +67,26 @@ The goal is to build a portfolio based on observable work, reproducible changes,
 
 This repository may be updated as the technical investigation progresses.
 
+
+
+## 7. Business Owner Participation and Collaboration
+
+The owner of Mi Dulce Vanessa is welcome to review this repository and contact me if she is interested in the demonstration.
+
+This project was initiated independently, without a commission or prior authorization. The purpose of sharing it is to offer a potential improvement, request permission before any official use, and demonstrate my web development skills.
+
+**Collaboration options:**
+
+- **Repository review:** The business owner may request access to review the source code and proposed changes.
+- **GitHub collaboration:** If interested, she may participate through her own GitHub account, subject to repository access permissions.
+- **Pull requests:** She may propose changes, corrections, or alternative implementations for review.
+- **Authorization:** Any use of the demonstration as the business's official website, or publication of business materials beyond permitted use, requires the appropriate authorization.
+
+The repository is currently maintained by [@ozclef](https://github.com/ozclef). Access, collaboration, and any future transfer of project ownership can be discussed separately if the business owner wishes to proceed.
+
+The purpose is to offer an opportunity, not to impose a service or claim an existing business relationship.
+
+
 ---
 
 **Developer:** [@ozclef](https://github.com/ozclef)
